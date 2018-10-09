@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/AbstractBattleshipGame.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/DebugMode.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/GameMode.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/GameResult.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/GameType.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/IBattleshipGame.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/IRandomInput.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/IStrategy.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/MapController.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/PlacementType.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/RandomInput.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/RandomStrategy.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/ShipController.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/SmartStrategy.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/controller/UserStrategy.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/Main.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/AbstractCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/AbstractShip.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/AbstractShipCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/AbstractWaterCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/AttackResult.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/BattleShip.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Cell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Cruiser.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Destroyer.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Direction.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/EnemyShipCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/GapCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Hit.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/IMap.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/InvalidArgumentException.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/InvalidCallException.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Map.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Miss.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/OpenSeaCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Position.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Ship.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/ShipCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/SpecificShipCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Submarine.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/Sunk.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/model/WaterCell.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/view/ConsolePrinter.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/view/DebugView.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/view/GameView.java">
+</file>
+<file name="/Users/wenzhang/Documents/GitHub/cs5004/assignment5-part2-qianwang-ivyzhang/src/main/java/edu/neu/ccs/cs5004/battleship/view/IConsolePrinter.java">
+</file>
+</checkstyle>
